@@ -4,7 +4,7 @@ This project is a web application that allows users to change the color of a pro
 
 Live Demo: [color-Tshirt.com](https://change-product-image-color.netlify.app)
 
-![app](https://i.imgur.com/6I74406.png)
+![app](https://i.imgur.com/U7ubGx1.png)
 
 ## Features
 
